@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is Konstantin Gritzkevich and I'm a student of ITMO University, Russia, Saint Petersburg (Bachelor of Mobile and Online Technologies)</h2>
 
+
+
 ###
+
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kostyamops&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true" height="150" alt="stats graph"  />
