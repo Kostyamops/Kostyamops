@@ -43,8 +43,4 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) -->
 <!-- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) -->
-## 📊 GitHub Stats:
 ![](https://media1.tenor.com/m/OJV-K5r1f8IAAAAd/roblox-%D0%BF%D0%BE%D0%B5%D0%B1%D0%B0%D1%82%D1%8C.gif)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Kostyamops&theme=holi&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kostyamops&theme=holi&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kostyamops&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
